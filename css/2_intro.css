@@ -3,54 +3,55 @@ a#intro
     color: rgb(88, 75, 61);
 }
 
+img#intro
+{
+    position: relative;
+    top: 120px;
+
+    height: 370px;
+    width: 1100px;
+}
+
+img#bar
+{
+    position: relative;
+    top: 200px;
+
+    width: 1100px;
+}
+
 table#p121
 {
     position: relative;
-    top: 300px;
-    left: 20px;
+    text-align: center;
 
-    height: 200px;
-    width: 800px;
+    font-size: 20px;
+    width: 1100px;
+    top: 230px;
 }
 
 img#p121
 {
-    margin-right: 50px;
+    margin-right: 30px;
     position: relative;
 
-    height: 200px;
-    width: 350px;
+    height: 300px;
+    width: 525px;
 }
 
-h3#fg
+img#photo
 {
     position: relative;
-    top: 400px;
-}
+    top: 330px;
 
-table#fg
-{
-    position: relative;
-    top: 430px;
-    left: 20px;
-
-    height: 200px;
-    width: 800px;
-}
-
-img#fg
-{
-    margin: 50px;
-    position: relative;
-
-    height: 200px;
-    width: 350px;
+    height: 866px;
+    width: 1100px;
 }
 
 div#footer
 {
     position: relative;
-    top: 500px;
+    top: 450px;
     bottom: 0;
 
     height: 100px;
