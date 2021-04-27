@@ -1,3 +1,10 @@
+img#pen2
+{
+    position: relative;
+    top: 50px;
+    width: 1100px;
+}
+
 a#intro
 {
     color: rgb(88, 75, 61);

@@ -1,9 +1,5 @@
-a#room
-{
-    color: rgb(88, 75, 61);
-}
 
-img#room
+img#name
 {
     position: relative;
     top: 30px;
@@ -20,30 +16,48 @@ img#bar
     width: 1100px;
 }
 
-table#room
+img#full
 {
     position: relative;
-    top: 110px;
+    top: 140px;
 
-    height: 200px;
-    width: 900px;
-    text-align: center;
-    font-size: 20px;
+    height: 1400px;
+    width: 1100px;
 }
 
-img#ho, img#san, img#jeo, img#mul
+table#se
 {
-    margin-top: 50px;
-    position: relative;
+    border-spacing: 25px;
+}
 
-    height: 260px;
-    width: 400px;
+table#se td#box
+{
+    position: relative;
+    top: 180px;
+
+    height: 40px;
+    width: 70px;
+    background-color: rgb(197, 187, 178);
+    color: white;
+    font-weight: bold;
+    
+    text-align: center;
+    line-height: 40px;  /* div height와 같이 → 수직 중앙 */
+}
+
+table#se td#text
+{
+    position: relative;
+    top: 180px;
+
+    text-align: left;
+    line-height: 0px;
 }
 
 div#footer
 {
     position: relative;
-    top: 250px;
+    top: 300px;
     bottom: 0;
 
     height: 100px;
