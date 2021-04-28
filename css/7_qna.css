@@ -1,0 +1,143 @@
+
+a   { text-decoration: none; }
+
+a#qna
+{
+    color: rgb(88, 75, 61);
+}
+
+img#qna
+{
+    position: relative;
+    top: 30px;
+
+    height: 370px;
+    width: 1100px;
+}
+
+img#bar
+{
+    position: relative;
+    top: 110px;
+
+    width: 1100px;
+}
+
+table#info
+{
+    position: relative;
+    top: 140px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+table#contact
+{
+    position: relative;
+    top: 210px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+table#qna
+{
+    position: relative;
+    top: 280px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+td#circle_big
+{
+    width: 40px;
+    color: rgb(99, 86, 73);
+}
+
+table#info2
+{
+    position: relative;
+    top: 150px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+table#contact2
+{
+    position: relative;
+    top: 220px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+table#qna2
+{
+    position: relative;
+    top: 290px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+td#circle_small
+{
+    width: 30px;
+    color: rgb(99, 86, 73);
+}
+
+div#button
+{
+    position: relative;
+    top: 380px;
+    left: 100px;
+    height: 60px;
+    width: 180px;
+
+    background-color: rgb(165, 157, 150);
+    text-align: center;
+    line-height: 60px;  /* div height와 같이 → 수직 중앙 */
+}
+
+#button a
+{
+    color: white;
+    display: block;
+    font-weight: bold;
+}
+
+#button:hover
+{
+    background-color: rgb(197, 187, 178);
+}
+
+div#footer
+{
+    position: relative;
+    top: 500px;
+    bottom: 0;
+
+    height: 100px;
+    width: 1100px;
+
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    color: rgb(110, 110, 110);
+    font-size: 13px;
+    vertical-align: middle;
+}

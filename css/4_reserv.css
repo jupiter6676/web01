@@ -1,0 +1,182 @@
+
+a#reserv
+{
+    color: rgb(88, 75, 61);
+}
+
+img#reserv
+{
+    position: relative;
+    top: 30px;
+
+    height: 370px;
+    width: 1100px;
+}
+
+img#bar
+{
+    position: relative;
+    top: 110px;
+
+    width: 1100px;
+}
+
+/* ●종합안내, ●예약안내, ●이용안내, ●환불기준 */
+table#jong1
+{
+    position: relative;
+    top: 140px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+table#ye1
+{
+    position: relative;
+    top: 250px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+table#i1
+{
+    position: relative;
+    top: 320px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+table#hwan1
+{
+    position: relative;
+    top: 390px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 30px;
+}
+
+td#circle_big
+{
+    width: 40px;
+    color: rgb(99, 86, 73);
+}
+
+/* 종합안내, 환불기준 표 */
+table#jong tr, table#jong td, table#hwan_info tr, table#hwan_info td
+{
+    border: 1px solid rgb(51, 45, 39);
+    padding: 10px;
+}
+
+td, tr
+{
+    padding-bottom: 20px
+}
+
+tr#title
+{
+    background-color: rgb(168, 159, 151);
+    color: white;
+}
+
+table#jong
+{
+    position: relative;
+    top: 160px;
+
+    width: 950px;
+    text-align: center;
+    font-size: 20px;
+
+    border-collapse: collapse;
+}
+
+table#hwan_info
+{
+    position: relative;
+    top: 410px;
+
+    width: 950px;
+    text-align: center;
+    font-size: 20px;
+
+    border-collapse: collapse;
+}
+
+/* 제목, 표 아래 조그마한 글씨 */
+table#jong2
+{
+    position: relative;
+    top: 180px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+table#ye2
+{
+    position: relative;
+    top: 260px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+table#i2
+{
+    position: relative;
+    top: 330px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+table#hwan2
+{
+    position: relative;
+    top: 450px;
+    left: -4px;
+
+    width: 950px;
+    text-align: left;
+    font-size: 20px;
+}
+
+td#circle_small
+{
+    width: 30px;
+    color: rgb(99, 86, 73);
+}
+
+div#footer
+{
+    position: relative;
+    top: 550px;
+    bottom: 0;
+
+    height: 100px;
+    width: 1100px;
+
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    color: rgb(110, 110, 110);
+    font-size: 13px;
+    vertical-align: middle;
+}
