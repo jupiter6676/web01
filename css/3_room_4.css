@@ -1,4 +1,9 @@
 
+a#room
+{
+    color: rgb(88, 75, 61);
+}
+
 img#name
 {
     position: relative;
